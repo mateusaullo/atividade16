@@ -19,7 +19,7 @@ public class App {
         total = latas * preco;
 
         System.out.printf("\nQuantidade de latas de tintas necessárias: %.1f ",+latas);
-        System.out.printf("\nR$ %.2f reais",+total);
+        System.out.printf("\nPreço Total: R$ %.2f reais",+total);
 
     }
 }
